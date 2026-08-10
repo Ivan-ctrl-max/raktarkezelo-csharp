@@ -5,7 +5,7 @@ Egy egyszerű, Windows Forms alapon készült asztali raktárkezelő program, am
 Mit tud a program?
 Bejelentkezési felület (felhasználónév és jelszó)
 Termékek hozzáadása, törlése és áttekintése (név, ár, darabszám)
-Összérték automatikus kiszámítása[cite: 1]
+Összérték automatikus kiszámítása
 Adatok mentése és betöltése szöveges fájlból (`.txt`)
 Exportálás funkció
 
